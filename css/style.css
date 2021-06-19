@@ -44,6 +44,7 @@ width: 21rem;
     padding: 8px 1rem;
     font-size: 1rem;
     border-radius: 10px;
+    border: 0px;
     background-color: #2bdb2b;
 }
 .end button a{
